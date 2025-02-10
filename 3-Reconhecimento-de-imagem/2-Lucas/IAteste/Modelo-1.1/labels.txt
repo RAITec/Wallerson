@@ -1,0 +1,6 @@
+0 Celular
+1 Cotoco
+2 Joinha
+3 Pessoa
+4 Bone
+5 Pessoa+Bone

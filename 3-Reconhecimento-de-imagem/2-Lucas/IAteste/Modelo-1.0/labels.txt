@@ -1,0 +1,3 @@
+0 Mao aberta
+1 Mao fechada
+2 Pessoa
